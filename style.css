@@ -108,3 +108,27 @@ body {
     vertical-align: middle;
     display: table-cell;  
 }
+
+.type {
+    color: white;
+    display: inline-flex;
+    text-align: left;
+    font-size: 2vw;
+    width: 87vw;
+    height: 3vw;
+
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    padding-left: 5.5vw;
+    padding-right: 5.5vw;
+    text-wrap: nowrap;
+}
+
+.line {
+    border: .1vw white;
+    border-style: dashed;
+    margin-top: 1vw;
+    margin-left: 3vw;
+    width: 100%;
+    height: 0px;
+}
