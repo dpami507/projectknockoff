@@ -166,3 +166,17 @@ body {
     border-top-right-radius: 1vw;
     border-bottom-right-radius: 1vw;
 }
+
+.recc {
+    color: black;
+    padding: 0.25vw;
+    font-size: 1vw;
+    font-weight: bold;
+    background-color: black;
+    width: 1.5vw;
+    height: 1.5vw;
+    position: absolute;
+    top: 1vw;
+    right: 1vw;
+    z-index: 10;
+}
